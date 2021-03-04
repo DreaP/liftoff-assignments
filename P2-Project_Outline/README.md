@@ -56,4 +56,4 @@ We became inspired by the idea from Kaja’s Day Planner app and Andrea’s inte
 *SQL Server + Database
 
 ### Project Tracker
-[Organizly] (https://trello.com/b/WxO8M2DZ/organizely-studium-project-2021)
+[Organizely] (https://trello.com/b/WxO8M2DZ/organizely-studium-project-2021)
