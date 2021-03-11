@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[Andrea's GitHub](https://github.com/DreaP)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Andrea's LinkedIn Profile](https://www.linkedin.com/in/andrea-pruitt/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
