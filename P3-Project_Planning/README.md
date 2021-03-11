@@ -16,4 +16,4 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Organizely-App](https://github.com/AKA-Liftoff-Group-2021)
