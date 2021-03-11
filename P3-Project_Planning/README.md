@@ -8,8 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
-
+[Organizely Wireframes](https://github.com/DreaP/liftoff-assignments/blob/master/P3-Project_Planning/Organizely_Wireframes.pdf)
 ### Project Tracker
 
 [Organizely Project Board](https://trello.com/b/WxO8M2DZ/organizely-project-2021)
